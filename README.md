@@ -11,17 +11,17 @@
 
 ## About
 
-This project is created using HTML and CSS. I have used CSS Positioning and CSS flex-box to build this project, and this project is not fully responsive. In future I will try to make it responive.
+This project is created using HTML and CSS. I have used CSS Positioning and flex-box to build this project, and this project is responsive.
 
 ## What did I learn by making this project?
 
--   learn CSS postioning in detail.
--   learn to use CSS variables.
--   learn to use flex-box.
+-   learn more about using svg files.
+-   learn about responsive designing.
 
 ## Time taken to finish this project?
 
-Although this project looks simple and easy but when I started working on it, it took me around 6 hour to finish it.
+This project took me around 5 hour to finish. It takes more time to make this website responsive.
+
 
 ## Screenshots
 
